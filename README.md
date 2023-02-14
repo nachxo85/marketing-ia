@@ -10,6 +10,7 @@ Multiple models have been used, such as Facebook prophet for time series, least 
 
 **Visualisation**
 Streamlit the user uploads a csv with the data and prices of a product over time and the system returns the most optimal selling price according to its history.
+**Can't install on streamlit because this lib statsmodels.api, but it run fine on collab.**
 ![](https://github.com/nachxo85/marketing-ia/blob/main/Graph.png)
 **Installation guide**
 git clone https://github.com/nachxo85/marketing-ia.git
