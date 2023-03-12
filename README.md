@@ -7,12 +7,12 @@ Also, it's has a second goal, does a prediction about the number of sales and re
 
 ## Project Overview
 The project contains the following steps(that match on each notebook):
-* 0.Adquisition Data: Get the data from the private api and dump to csv (example, as is but not functional, because the api is from a private company).
-* 1.Markets Insigths: market study about the keywords (on diferent countries, for study correlation of keywords and customers come from )
-* 2.Exploration_and_services_analytics: Exploring data and analysis of service historic.
-* 3.Forecast revenue and sales: Building and training the model to predict revenue and number of sales.
-* 4.Forecast Optimal price based on cash disconts history: Building and training the model to predict the better optimal price based on cash discounts history.
-* 5.Model tuning evaluation: Evaluation of the models performance.
+0. Adquisition Data: Get the data from the private api and dump to csv (example, as is but not functional, because the api is from a private company).
+1. Markets Insigths: market study about the keywords (on diferent countries, for study correlation of keywords and customers come from )
+2. Exploration_and_services_analytics: Exploring data and analysis of service historic.
+3. Forecast revenue and sales: Building and training the model to predict revenue and number of sales.
+4. Forecast Optimal price based on cash disconts history: Building and training the model to predict the better optimal price based on cash discounts history.
+5. Model tuning evaluation: Evaluation of the models performance.
 
 ## Installation guide 
 These are the steeps for run the project for development and testing purposes.
