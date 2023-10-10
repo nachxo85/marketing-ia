@@ -1,25 +1,23 @@
 # IA on Digital Marketing on SPA clients
-This is the TFM for Kschool Master degree in Data science and it's based on SPAs predicting optimal price based on old prices in the same services and predict the sales numbers and the sales revenue.
+This is the TFM for Kschool Master degree in Data science and it's based on Retail marketing with IA.
 
 ## Objective
-This project has the goal of know the optimal price for every service based on the elastic price (contrast price vs number of sales).
-Also, it's has a second goal, does a prediction about the number of sales and revenue of sales.
+This project has the goal study of the main procedures with the point of view of the IA
 
 ## Project Overview
 The project contains the following steps(that match on each notebook):
-0. Adquisition Data: Get the data from the private api and dump to csv (example, as is but not functional, because the api is from a private company).
-1. Markets Insigths: market study about the keywords (on diferent countries, for study correlation of keywords and customers come from )
-2. Exploration_and_services_analytics: Exploring data and analysis of service historic.
-3. Forecast revenue and sales: Building and training the model to predict revenue and number of sales.
-4. Forecast Optimal price based on cash disconts history: Building and training the model to predict the better optimal price based on cash discounts history.
-5. Model tuning evaluation: Evaluation of the models performance.
+0. Adquisition Data: The data was given.
+1. Intro to marketing
+2. Customer_Analytics_Segmentation
+3. Purchase_Analytics_Descriptive_Analysis
+4. Purchase_Analytics_and_Predictive_Analysis
 
 ## Installation guide 
 These are the steeps for run the project for development and testing purposes.
 
 ## Prerequisites
-This scripts run on Python 3.x all the others libraries needed are on the script lines by !pip install <library>
-Because, you haven't got access to the api(the adquision data notebook is only for education purposes and show how get data from api and it's not run),  I left on the data folder the csv for work.
+This scripts run on Python 3.x all the others libraries needed are on the r.txt file
+I left the data on every folder for work where are the notebooks 1.---- and 2.-----
 
 ## Installing
 All notebooks are ready to runing on google colab, just clone the repo in local and upload it to Google Colab.
@@ -29,8 +27,7 @@ $ git clone https://github.com/nachxo85/marketing-ia
 ```
 
 ## Execution
-You can execute in any order all the proyect notebooks. The data is on Data folder, the file data.csv contains all the historic data for work.
-
+Yo need execute the notebooks in order and shoud copy  the files .pickle from 1.segmentation to the 2.purchase directory 
 
 ## Author
 Ignacio Palomino Barranco
