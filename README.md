@@ -1,4 +1,4 @@
-# IA on Digital Marketing on SPA clients
+# IA on Digital Marketing on retail clients
 This is the TFM for Kschool Master degree in Data science and it's based on Retail marketing with IA.
 
 ## Objective
